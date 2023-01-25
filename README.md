@@ -42,8 +42,9 @@ Estudante de engenharia de software na <a href="https://42.rio">42|Rio</a><img s
 <h3>Conquistas e certificações:</h3>
 
 🔸 2º lugar no Hackathon da UERJ - projeto HIPPO.</br>
-🔹 Javascript Programming - Certificação pela Meta.</br>
+🔹 Javascript Programming - <a href="https://www.coursera.org/account/accomplishments/certificate/QG4TGYNVLXXF">Certificação da META | 2023.</a></br>
 🔸 Curso de Administração de banco de dados - Fundação Bradesco.</br>
 🔹 Oficina de iniciação de Phyton - Horus.</br>
-🔸 Voluntária na Campus Party - SP/2022.</br>
+🔸 Voluntária na <a href="https://brasil.campus-party.org/">CPBR14 - SP | 2022.</a>
+</em></p>
 #
