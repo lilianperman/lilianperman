@@ -12,4 +12,4 @@
 
 [![lilianperman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilianperman&count_private=true&show_icons=true&theme=radical)](https://github.com/lilianperman/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilianperman&show_icons=icons&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 #
-[![My Skills](https://skillicons.dev/icons?i=c,js,figma,linux,vim,linkedin,github,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,figma,linux,vim,linkedin,github,premiere,photoshop)](https://skillicons.dev)
