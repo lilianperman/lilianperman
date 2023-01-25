@@ -45,6 +45,6 @@ Estudante de engenharia de software na <a href="https://42.rio">42|Rio</a><img s
 🔹 Javascript programming - <a href="https://www.coursera.org/account/accomplishments/certificate/QG4TGYNVLXXF">certificação da META | 2023.</a></br>
 🔸 Curso de administração de banco de dados - fundação bradesco.</br>
 🔹 Oficina de iniciação de phyton - Horus.</br>
-🔸 Voluntária na <a href="https://brasil.campus-party.org/">CPBR14 - SP | 2022.</a>
+🔸 Voluntária no Rio Innovation Week e na <a href="https://brasil.campus-party.org/">CPBR14 - SP | 2022.</a>
 </em></p>
 #
