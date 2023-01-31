@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%48067B&vCenter=true&lines=Oi,+Eu+sou+a+Lilian!+👋;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%48067B&vCenter=true&lines=Oi,+eu+sou+a+Lilian!+👋;)](https://git.io/typing-svg)
 
 Estudante de engenharia de software na <a href="https://42.rio">42|Rio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
