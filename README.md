@@ -3,7 +3,7 @@
 Estudante de engenharia de software na <a href="https://42.rio">42|Rio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-- 🤯 Estou estudando C e JavaScript.
+- 🚀 Estou estudando C e JavaScript.
 - 🐜 Tenho experimentado fazer projetos em diferentes áreas, como back e frontend.
 - 💡 Estou animada para colaborar com projetos incríveis e desafiadores.
 - 📞 Como entrar em contato? lilianperman@gmail.com | @liperman na 42!
