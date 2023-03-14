@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%48067B&vCenter=true&lines=Oi,+eu+sou+a+Lilian!+👋;)](https://git.io/typing-svg)
 
-Estudante de engenharia de software na <a href="https://42.rio">42|Rio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Engenharia de software na <a href="https://42.rio">42|Rio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 🚀 Estou estudando C e JavaScript.
@@ -8,7 +8,7 @@ Estudante de engenharia de software na <a href="https://42.rio">42|Rio</a><img s
 - 💡 Estou animada para colaborar com projetos incríveis e desafiadores.
 - 📞 Como entrar em contato? lilianperman@gmail.com | @liperman na 42!
 - 🙃 Pronomes: Ela/Dela.
-- 👀 Fun fact: Tenho um background sólido de marketing, design e comunicação.
+- 👀 Fun fact: Tenho um background sólido de marketing, design e comunicação | Apaixonada por tecnologia e inovação. 
 
 <br/>
 <a href="https://www.linkedin.com/in/lilianperman/">
